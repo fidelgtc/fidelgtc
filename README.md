@@ -2,7 +2,7 @@
 #### I am a Java **full stack** web developer
 ![I am a Java **full stack** web developer](https://media-exp1.licdn.com/dms/image/C4E16AQFEK-0arlpL_A/profile-displaybackgroundimage-shrink_350_1400/0/1518453600293?e=1651104000&v=beta&t=nBIpsSClOTEE7rPpo0jr2n9iXT9QYPcXhqJwrHpZJPo)
 
-More than 5 years of experience. I am open to learn about new technologies. 
+More than 5 years experience. I am open to learn about new technologies. 
 
 Skills: JAVA 8 / ANGULAR 11 / TS / HTML / SCSS
 
